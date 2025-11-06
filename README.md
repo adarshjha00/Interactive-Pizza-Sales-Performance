@@ -49,3 +49,31 @@ The analysis focuses on key business metrics and performance indicators such as:
 **Additional Insights**
 - Classic Deluxe Pizza is the highest-selling item with 2453 units sold.  
 - The Brie Carre Pizza is the lowest-selling item with 918 units sold.
+
+🧰 Tools & Technologies Used
+
+Microsoft Excel: For initial data creation, cleaning, and minor transformations.
+
+MySQL / SQL: To extract, analyze, and summarize pizza sales data for meaningful insights.
+
+PowerPoint: For visualizing insights and presenting dashboard-style summaries.
+
+GitHub: For hosting project files, screenshots, and documentation.
+
+🔗 Conclusion
+
+This Pizza Sales Analysis provides actionable insights for pizza operations, helping identify:
+
+Peak sales hours and days
+
+Most popular pizza types and sizes
+
+Revenue trends and profitability
+
+Customer ordering patterns and repeat customers
+
+Common reasons for order cancellations
+
+Opportunities to optimize delivery and marketing strategies
+
+It serves as a decision-support tool for pizza business analytics, enabling better operational planning and sales growth.
