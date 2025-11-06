@@ -13,7 +13,8 @@ The analysis focuses on key business metrics and performance indicators such as:
 
 
 🔗 Pizza Sale Report Screenshot :
-![Pizza Sales Dashboard](Pizza_Dashboard.jpeg)
+![Pizza Dashboard](Screenshot/Pizza_Dashboard.jpeg)
+
 
 ### Key Insights
 
