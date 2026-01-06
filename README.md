@@ -1,4 +1,4 @@
-# 🍕 Interactive Pizza Sales Insights & Performance Dashboard (Excel & SQL)
+# 🍕 Interactive Pizza Sales Performance Dashboard (Excel & SQL)
 
 # 🔍 Project Overview : 
 This project provides a **comprehensive analysis of pizza sales data Using Excel and Advanced SQL**.   
